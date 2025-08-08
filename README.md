@@ -165,7 +165,7 @@ def setup_logger(name='trading_bot'):
 
 ---
 
-🤖 trader.py
+ trader.py
 
 # trader.py
 from binance.client import Client
